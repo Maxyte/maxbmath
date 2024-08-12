@@ -1,0 +1,1 @@
+![[cv_max_booth.pdf#height=000]]
