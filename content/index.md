@@ -8,7 +8,7 @@ title: Max Booth
 ![[mb_photo_b.png]]
 ## Max Booth | Baltimore, MD, United States<br> Johns Hopkins University, Department of [Applied Mathematics & Statistics](https://engineering.jhu.edu/ams/)
 
-Hello, and welcome! I am a PhD student in the Department of Applied Mathematics & Statistics at Johns Hopkins University interested in PDEs, Stochastic Analysis, and Applied Math in Data Science & Machine Learning as well as random operators and data. 
+Hello, and welcome! I am a Ph.D. student in the Department of Applied Mathematics & Statistics at Johns Hopkins University interested in PDEs, Stochastic Analysis, and Applied Math in Data Science & Machine Learning as well as random operators and data. 
 
 Previously, I studied Pure & Applied Mathematics as an undergraduate at the University of Utah, and I had the incredible honor of working as an interdisciplinary Research Assistant in the labs of Profs. [Elana Fertig](https://fertiglab.com) and [Genevieve Stein-O'Brien](https://www.steinobrienlab.org/people.html) at the Johns Hopkins University School of Medicine in collaboration with [Paul Macklin](http://mathcancer.org)'s lab at IU Bloomington. I have my mentors here to thank for demonstrating the equal challenge and reward of sharing ideas and tools across disciplines and the great deal theorists and practitioners can learn from one another.<br><br>
 [GitHub](https://github.com/Maxyte) | e-mail: `mbooth12@jh.edu`
