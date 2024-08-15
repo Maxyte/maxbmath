@@ -11,7 +11,8 @@ title: Max Booth
 Hello, and welcome! I am a PhD student in the Department of Applied Mathematics & Statistics at Johns Hopkins University interested in PDEs, Stochastic Analysis, and Applied Math in Data Science & Machine Learning as well as random operators and data. 
 
 Previously, I studied Pure & Applied Mathematics as an undergraduate at the University of Utah, and I had the incredible honor of working as an interdisciplinary Research Assistant in the labs of Profs. [Elana Fertig](https://fertiglab.com) and [Genevieve Stein-O'Brien](https://www.steinobrienlab.org/people.html) at the Johns Hopkins University School of Medicine in collaboration with [Paul Macklin](http://mathcancer.org)'s lab at IU Bloomington. I have my mentors here to thank for demonstrating the equal challenge and reward of sharing ideas and tools across disciplines and the great deal theorists and practitioners can learn from one another.<br><br>
-
+E-mail: mbooth12 $\[$ at $\]$ jh $\[$ dot $\]$ edu | [Github](https://github.com/Maxyte) 
+___
 
 > DESIDERATA<br><br>
 > GO PLACIDLY amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
