@@ -2,7 +2,7 @@
 title: Max Booth
 ---
 
-# [[CV]] | [[Teaching]] | [[Research]]
+# [[CV]]
 
 
 ![[mb_photo_b.png]]
