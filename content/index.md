@@ -6,7 +6,7 @@ title: Max Booth
 
 
 ![[mb_photo_b.png]]
-## Max Booth | Baltimore, MD, United States<br> Johns Hopkins University<br>Department of [Applied Mathematics & Statistics](https://engineering.jhu.edu/ams/)
+## Max Booth | Baltimore, MD, United States<br> Johns Hopkins University, Department of [Applied Mathematics & Statistics](https://engineering.jhu.edu/ams/)
 
 Hello, and welcome! I am a PhD student in the Department of Applied Mathematics & Statistics at Johns Hopkins University interested in PDEs, Stochastic Analysis, and Applied Math in Data Science & Machine Learning as well as random operators and data. 
 
